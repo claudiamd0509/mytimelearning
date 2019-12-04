@@ -1,6 +1,6 @@
 # mytimelearning
 
-Hi! Just testing this and looks how it works :P
+Hi! Just testing this and look how it works :P
 
 xoxo
   Claudia
